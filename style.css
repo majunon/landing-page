@@ -34,7 +34,9 @@ a{
 }
 
 .hero{
-    
+    display: flex;
+    padding: 50px 100px;
+    gap:50px;
 }
 
 .hero-img{
@@ -42,3 +44,21 @@ a{
     height:auto;
 }
 
+h1{
+    font-size: 48px;
+}
+
+.hero-left p{
+    font-size: 18px;
+    color:#E5E7EB;
+    margin-bottom: 15px;
+}
+
+.hero-left button{
+    background-color: #3882f6;
+    border-radius: 5px;
+    border:none;
+    color:#F9FAF8;
+    border-color: #3882f6;
+    padding:3px 25px;
+}
