@@ -37,6 +37,8 @@ a{
     display: flex;
     padding: 50px 100px;
     gap:50px;
+    justify-content: space-around;
+    align-items:center;
 }
 
 .hero-img{
