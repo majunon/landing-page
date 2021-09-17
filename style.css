@@ -169,3 +169,10 @@ cite{
     color: #F9FAF8;
     font-weight: 700;
 }
+
+.footer{
+    background-color: #1F2937;
+    padding:25px;
+    color:#F9FAF8;
+    text-align: center;
+}
