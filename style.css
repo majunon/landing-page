@@ -127,3 +127,45 @@ cite{
     order:-1;
     font-style: normal;
 }
+
+.cta-container{
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-background{
+    background-color: #3882f6;
+    margin:100px;
+    border-radius: 5px;
+    color:#F9FAF8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-left p{
+    font-size: 14px;
+}
+
+.cta-left h3{
+    font-size: 24px;
+}
+
+.cta-left{
+    padding:40px 100px;
+}
+
+.cta-background button{
+    background-color: #3882F6;
+    border-radius: 5px;
+    margin-right: 100px;
+    min-width:120px;
+    margin-left: 0;
+    margin-right: 100px;
+    margin-top:60px;
+    margin-bottom:60px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    color: #F9FAF8;
+    font-weight: 700;
+}
